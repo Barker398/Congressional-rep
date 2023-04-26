@@ -1,11 +1,13 @@
-h1, h2, h3{
-    color:blue;
+h1,
+h2,
+h3 {
+    color: blue;
     display: flex;
     justify-content: center;
 }
 
-body{
-   background-color: darkcyan; 
+body {
+    background-color: darkcyan;
 }
 
 article {
@@ -18,15 +20,14 @@ section {
     justify-content: space-evenly;
 }
 
-ul{
+ul {
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
-li{
+li {
     flex-basis: 6%;
     text-align: left;
-    padding: 0.4em ;
+    padding: 0.4em;
 }
-
